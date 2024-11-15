@@ -1,10 +1,10 @@
 {
   "Name": "FNTD Looter",
-  "Version": "v4.3",
+  "Version": "v4.3.1",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added hotkeys (1-6) for unit selection, enabling auto-select functionality.",
-    "Fixed minor bugs."
+    "Fixed an issue where the macro would randomly place units in the top-left corner.",
+    "Added a Help button to assist new users."
   ]
 }
