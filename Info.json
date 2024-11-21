@@ -1,9 +1,11 @@
 {
   "Name": "FNTD Looter",
-  "Version": "v4.3.2",
+  "Version": "v4.4",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Fixed an issue where \"[\" and \"]\" keys wouldn't work due to accidentally pressing \"P\" while creating a custom macro."
+    "Added \"Replicate\" under Rituals for users with 2+ Roblox accounts to automatically copy game rituals on all windows.",
+    "Added NumericUpDown control so it's easier to change the unit's position.",
+    "Increased the Pre-Place timer from 30 to 45 seconds. If units aren't placed in time, the game restarts by making the user die on purpose."
   ]
 }
