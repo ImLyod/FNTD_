@@ -1,10 +1,12 @@
 {
   "Name": "FNTD Looter",
-  "Version": "v4.5",
+  "Version": "v5.0b",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
+    "Added Steampunk Endless (BETA)",
     "Added Modifiers (Vengeful, Reanimation, Pirate's Cove, and HellMode)",
-    "Makes zooming out and looking down faster."
+    "Fixed the Zoom out and Look Down.",
+    "Fixed Unit placement issue."
   ]
 }
