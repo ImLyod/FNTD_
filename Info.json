@@ -3,5 +3,7 @@
   "Version": "v5.0",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
-  "Updates": []
+  "Updates": [
+    "Fixed some known bugs and issues."
+  ]
 }
