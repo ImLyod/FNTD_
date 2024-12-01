@@ -1,9 +1,10 @@
 {
-  "Name": "FNTD Looter",
-  "Version": "v5.0",
+  "Name": "FNTDLooter",
+  "Version": "v5.1",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Fixed some known bugs and issues."
+    "Fixed an issue where the modifier occasionally failed to select in Endless mode.",
+    "Added more features to assist users in debugging issues."
   ]
 }
