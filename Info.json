@@ -1,10 +1,10 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v5.1",
+  "Version": "v5.2",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Fixed an issue where the modifier occasionally failed to select in Endless mode.",
-    "Added more features to assist users in debugging issues."
+    "Fixed an issue where zooming in and out wasn't working when the map changes.",
+    "Added extra clicks when selecting a modifier to prevent the macro from freezing during selection."
   ]
 }
