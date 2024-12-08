@@ -1,10 +1,12 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v5.2",
+  "Version": "v5.3",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Fixed an issue where zooming in and out wasn't working when the map changes.",
-    "Added extra clicks when selecting a modifier to prevent the macro from freezing during selection."
+    "Improved Map Detection Speed for Endless.",
+    "Faster Unit Placement & Upgrades",
+    "Added UserID for Future Giveaway Winners",
+    "Notes: So far, the two changes have significantly increased survivability on higher waves with 4 accounts, improving wave survivability from 250 waves to 300-380 waves."
   ]
 }
