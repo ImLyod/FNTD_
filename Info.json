@@ -1,12 +1,11 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v5.3",
+  "Version": "v5.3.1",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Improved Map Detection Speed for Endless.",
-    "Faster Unit Placement & Upgrades",
-    "Added UserID for Future Giveaway Winners",
-    "Notes: So far, the two changes have significantly increased survivability on higher waves with 4 accounts, improving wave survivability from 250 waves to 300-380 waves."
+    "Fixed an issue with map detection in Steampunk Endless.",
+    "Added a loop to ensure the Night and Replay buttons are clicked properly.",
+    "Removed zooming in and out in Endless mode unless the map is SPE 6."
   ]
 }
