@@ -1,11 +1,13 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v5.3.1",
+  "Version": "v5.3.2",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Fixed an issue with map detection in Steampunk Endless.",
-    "Added a loop to ensure the Night and Replay buttons are clicked properly.",
-    "Removed zooming in and out in Endless mode unless the map is SPE 6."
+    "Added a new \"Try\" upgrade! You can now try upgrading units for a set amount of time.\n\n\n\n\n\n",
+    "Faster rituals! Zooming and looking down now happen at the same time instead of waiting for each other.",
+    "Improved placement to make it faster and easier.\n",
+    "Fixed replay so it now loops the way it should.\n",
+    "Fixed minor issues."
   ]
 }
