@@ -1,13 +1,10 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v5.3.2",
+  "Version": "v5.4",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Welcome to the club!",
   "Updates": [
-    "Added a new 'Try' upgrade! You can now try upgrading units for a set amount of time.",
-    "Faster rituals! Zooming and looking down now happen at the same time instead of waiting for each other.",
-    "Improved placement to make it faster and easier.",
-    "Fixed replay so it now loops the way it should.",
-    "Fixed minor issues."
+    "Added Speed Settings to adjust how fast or slow specific parts of the macro run, based on your preferences.",
+    "Fixed the \"C\" auto-add feature to correctly apply the proper upgrades when creating a new macro."
   ]
 }
