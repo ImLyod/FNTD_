@@ -1,9 +1,11 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v7.0",
+  "Version": "v7.1",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Looters on top!",
   "Updates": [
-    "UPDATE TO NEWEST VERSION TO USE!"
+    "Added Endless 8",
+    "Added Queue System",
+    "Added Statistic"
   ]
 }
