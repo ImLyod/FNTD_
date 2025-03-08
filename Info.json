@@ -1,11 +1,10 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v7.1",
+  "Version": "v7.2",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Looters on top!",
   "Updates": [
-    "Added Endless 8",
-    "Added Queue System",
-    "Added Statistic"
+    "Added Game Speed",
+    "Removed the 1-2 second delay on the selection screen."
   ]
 }
