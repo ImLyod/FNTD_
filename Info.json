@@ -1,10 +1,13 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v7.2",
+  "Version": "v7.3",
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Looters on top!",
   "Updates": [
-    "Added Game Speed",
-    "Removed the 1-2 second delay on the selection screen."
+    "Added Endless for new event.",
+    "Added PVP for Super Looters",
+    "Changed \"Remove All\" feature to work with the games Unit Manager instead of manually deleting each unit.",
+    "Customizer will now appear on top when swapping between windows when using \"<\" key.",
+    "Fixed known issues."
   ]
 }
