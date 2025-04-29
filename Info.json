@@ -1,14 +1,14 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v7.3",
+  "Version": "v7.4",
   "Beta": 5,
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Looters on top!",
   "Updates": [
-    "Added Endless for new event.",
-    "Added PVP for Super Looters",
-    "Changed \"Remove All\" feature to work with the games Unit Manager instead of manually deleting each unit.",
-    "Customizer will now appear on top when swapping between windows when using \"<\" key.",
-    "Fixed known issues."
+    "Added Support for Game 9 & Endless 9",
+    "Added Nightshift w/ Reconnect (Looters & Super Looters) - Check Discord for Tutorial!",
+    "Added Presents Opener (Super Looters)",
+    "Added Custom Shop Buyer (Super Looters)",
+    "Added Glitched Stats Re-Roller (Super Looters)"
   ]
 }
