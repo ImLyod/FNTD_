@@ -1,14 +1,10 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v7.4",
+  "Version": "v7.5",
   "Beta": 6,
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Looters on top!",
   "Updates": [
-    "Added Support for Game 9 & Endless 9",
-    "Added Nightshift w/ Reconnect (Looters & Super Looters) - Check Discord for Tutorial!",
-    "Added Presents Opener (Super Looters)",
-    "Added Custom Shop Buyer (Super Looters)",
-    "Added Glitched Stats Re-Roller (Super Looters)"
+    "Fixed Nightshift reconnect to work with the new Roblox home page."
   ]
 }
