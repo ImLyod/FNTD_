@@ -1,10 +1,8 @@
 {
   "Name": "FNTDLooter",
   "Version": "v7.5",
-  "Beta": 9,
+  "Beta": 11,
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Looters on top!",
-  "Updates": [
-    "Fixed Nightshift reconnect to work with the new Roblox home page."
-  ]
+  "Updates": []
 }
