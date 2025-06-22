@@ -1,12 +1,10 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v8.1",
+  "Version": "v8.2",
   "Beta": 82,
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Looters on top!",
   "Updates": [
-    "Added multi-account support for Shop Buyer.",
-    "Fixed PVP Re-Queue & Re-join feature. (Added in Beta last month)",
-    "Removed the UFO checker for Event endless."
+    "Fixed reconnect feature for Nightshift & PVP."
   ]
 }
