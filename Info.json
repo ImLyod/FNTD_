@@ -1,10 +1,13 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v8.2",
+  "Version": "v8.3",
   "Beta": 83,
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Looters on top!",
   "Updates": [
-    "Fixed reconnect feature for Nightshift & PVP."
+    "Added Support for Game 10",
+    "Fixed Rituals for UWP.",
+    "Fixed Glitched Re-Roll for UWP",
+    "Fixed Upgrades for UWP."
   ]
 }
