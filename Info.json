@@ -1,13 +1,8 @@
 {
   "Name": "FNTDLooter",
-  "Version": "v8.3",
+  "Version": "v8.4",
   "Beta": 84,
   "Discord": "https://discord.gg/gnvT5St6EA",
   "Other": "Looters on top!",
-  "Updates": [
-    "Added Support for Game 10",
-    "Fixed Rituals for UWP.",
-    "Fixed Glitched Re-Roll for UWP",
-    "Fixed Upgrades for UWP."
-  ]
+  "Updates": []
 }
